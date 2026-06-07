@@ -1,0 +1,11 @@
+# ─── Core ────────────────────────────────────────────────────────────
+streamlit>=1.32.0
+
+# ─── Urdu Voice Assistant (Text-to-Speech) ───────────────────────────
+edge-tts>=6.1.0
+
+# ─── Face Detection (Camera) ────────────────────────────────────────
+opencv-python>=4.8.0
+
+# ─── Speech-to-Text (Voice Input) ───────────────────────────────────
+SpeechRecognition>=3.10.0
